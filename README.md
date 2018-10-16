@@ -4,5 +4,5 @@
 
 ⭐️Bu repoda DeepCon'18 dokumanlarına ulaşabiirsiniz.⭐️
 
-<img align="left" src="https://hizliresim.com/OD1QXP"><img src="https://i.hizliresim.com/OD1QXP.jpg">
+<img align="left" src="<a href="https://hizliresim.com/OD1QXP"><img src="https://i.hizliresim.com/OD1QXP.jpg"></a>
 
