@@ -46,6 +46,11 @@
 21. [Derin Pekiştirmeli Öğrenmeye Giriş: Doom Oynayan Ajan Geliştirme](https://github.com/FurkanArslan/deepcon-deep-rl-workshop) - Furkan Arslan (Özyeğin Üniversitesi / DLTR) :ballot_box_with_check:
 22. [Mamografi Görüntüleri Kullanarak Meme Kanseri Teşhisinin Performans Değerlendirmesi]() - Burcu Bektaş (İstanbul Üniversitesi-Cerrahpaşa / DLTR):hourglass_flowing_sand:
 
+### Atölye Eğitmenleri Hakkında Kısa Özgeçmiş Dosyası
+[Part-1](https://github.com/deeplearningturkiye/DeepCon18/blob/master/atolye_egitmenleri1.png)
+[Part-2](https://github.com/deeplearningturkiye/DeepCon18/blob/master/atolye_egitmenleri2.png)
+[Part-3](https://github.com/deeplearningturkiye/DeepCon18/blob/master/atolye_egitmenleri3.png)
+
 ## Atölye Videoları :tv:
 :hourglass_flowing_sand: Çok yakında [**Deep Learning Türkiye YouTube**](https://www.youtube.com/channel/UCrp_7_JACqsYbSmHFowvqbg) kanalında olacak!
 
