@@ -24,27 +24,27 @@
 
 ## Atölye Sunumları :heavy_check_mark:
 1. [Tensorflow.js ile Derin öğrenme web uygulaması geliştirme]() - Yavuz Kömeçoğlu  (Kodiks Bilişim / DLTR) 
-2. [Eğitimde Yapay Zeka]() - Dr. Sevinç Tunalı (TASAM)
-3. [Derin Pekiştirmeli Öğrenmede Çok Kollu Haydutlar problemi](https://github.com/kivancguckiran/deepcon-rl-workshop) - DLTR Çalışma Grubu 
-4. [Derin Öğrenme Yöntemleri (LSTM/RNN) Kullanarak Alışveriş Robotu Geliştirme]() - Buğra Çakır (BearTell / CEO)
-5. [Çekişmeli Üretici Ağları (GAN) Kullanarak Sentetik Veri Üretimi]() - Şahin Olut (İTÜ / VisionLab)
-6. [Kamera ve LiDAR verileri kullanılarak NVIDIA Drive Platformunda Otomotiv Uygulamaları]() - Fatih Cırıt (Leo Mühendislik)
-7. [Geri Dönüşüm Malzemelerinin Tanınması](https://github.com/deeplearningturkiye/DeepCon18/blob/master/Atolye_Dosyalari/MerveAyy%C3%BCceK%C4%B1zrak_DeepCon.pdf) -  Merve Ayyüce Kızrak (Haliç Üniversitesi / DLTR)
-8. [E-Ticaret ve Yapay Zeka Uygulamaları](https://github.com/birolkuyumcu/deep_con18_payment_anomaly_workshop) - Cüneyt Aksakallı (SefaMerve / DLTR)
-9. [OpenAI Gym ile Pekiştirmeli Öğrenme]() - Umut Can Altın (Eskişehir Anadolu Üniv. / DLTR)
-10. [Biyomedikal İşaretler Kullanılarak Yapay Zeka ile Hastalık Teşhisi]() - Sebahattin Babur (İstanbul Gedik Üniv.)
-11. [Sıfırdan Derin Öğrenme Çerçevesi Oluşturma (iki oturum)]() - Erelcan Yanık (Havelsan)
-12. [LSTM ve CNN ile Görsel Soru Cevaplama](https://github.com/deeplearningturkiye/DeepCon18/blob/master/Atolye_Dosyalari/Ba%C5%9FakBuluz_DeepCon.pdf) - Başak Buluz (Aydın Üniversitesi / DLTR)
-13. [Derin Öğrenme ile Renormalizasyon Grupları Arası Haritalama]() - Göktuğ İslamoğlu (İTÜ / İnşaat Müh.)
-14. [Bulut Teknolojileri Kullanarak Makine Öğrenmesi Modellerinin Oluşturulması](https://deepcon.s3.eu-west-1.amazonaws.com/Bulut_AI_v01.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20181011T091224Z&X-Amz-SignedHeaders=host&X-Amz-Expires=259199&X-Amz-Credential=AKIAIE6JUXZ3ZP7PRD6Q%2F20181011%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Signature=f44e91bd8f20764abbe53f27151e690e972d2c009d8d10a507916fd8b1c60413) - Barış Yaşin (AWS / Solution Architect)
-15. [Kelime Kalıplama (Word Embeddings) Yöntemler](https://github.com/deeplearningturkiye/DeepCon18/blob/master/Atolye_Dosyalari/Halil%C4%B0brahim%C3%87elenli_DeepCon.pdf) - Halil İbrahim Çelenli (Iceberg Tech. / DLTR)
-16. [İnsansız Hava Araçları ve Bilgisayarlı Görü]() - Mehmet Kerim Yücel (STM)
-17. [Giyim Tarzı Belirleme]() - Barış Yılmaz (Bilkent / Matematik)
-18. [Medikal Görüntülerde Landmark Tayini](https://github.com/deeplearningturkiye/DeepCon18/blob/master/Atolye_Dosyalari/AhmetEminYetkin_DeepCon.pdf) - Ahmet Emin Yetkin (Yeditepe Üniversitesi / DLTR)
-19. [Yapay Zeka Araçlarını Kullanarak İşitme Engelli Öğrencilere İngilizce Öğretimi]() - Dr. Burak Özkösem (Pera Labs)
-20. [Derin Öğrenme ile Doğal Dil İşleme]() - Fatih Mehmet Güler (PragmaCraft / DLTR)
-21. [Derin Pekiştirmeli Öğrenmeye Giriş: Doom Oynayan Ajan Geliştirme](https://github.com/FurkanArslan/deepcon-deep-rl-workshop) - Furkan Arslan (Özyeğin Üniversitesi / DLTR)
-22. [Mamografi Görüntüleri Kullanarak Meme Kanseri Teşhisinin Performans Değerlendirmesi]() - Burcu Bektaş (İstanbul Üniversitesi-Cerrahpaşa / DLTR)
+2. [Eğitimde Yapay Zeka]() - Dr. Sevinç Tunalı (TASAM):hourglass_flowing_sand:
+3. [Derin Pekiştirmeli Öğrenmede Çok Kollu Haydutlar problemi](https://github.com/kivancguckiran/deepcon-rl-workshop) - DLTR Çalışma Grubu :ballot_box_with_check:
+4. [Derin Öğrenme Yöntemleri (LSTM/RNN) Kullanarak Alışveriş Robotu Geliştirme]() - Buğra Çakır (BearTell / CEO):hourglass_flowing_sand:
+5. [Çekişmeli Üretici Ağları (GAN) Kullanarak Sentetik Veri Üretimi]() - Şahin Olut (İTÜ / VisionLab):hourglass_flowing_sand:
+6. [Kamera ve LiDAR verileri kullanılarak NVIDIA Drive Platformunda Otomotiv Uygulamaları]() - Fatih Cırıt (Leo Mühendislik):hourglass_flowing_sand:
+7. [Geri Dönüşüm Malzemelerinin Tanınması](https://github.com/deeplearningturkiye/DeepCon18/blob/master/Atolye_Dosyalari/MerveAyy%C3%BCceK%C4%B1zrak_DeepCon.pdf) -  Merve Ayyüce Kızrak (Haliç Üniversitesi / DLTR) :ballot_box_with_check:
+8. [E-Ticaret ve Yapay Zeka Uygulamaları](https://github.com/birolkuyumcu/deep_con18_payment_anomaly_workshop) - Cüneyt Aksakallı (SefaMerve / DLTR):ballot_box_with_check:
+9. [OpenAI Gym ile Pekiştirmeli Öğrenme]() - Umut Can Altın (Eskişehir Anadolu Üniv. / DLTR):hourglass_flowing_sand:
+10. [Biyomedikal İşaretler Kullanılarak Yapay Zeka ile Hastalık Teşhisi]() - Sebahattin Babur (İstanbul Gedik Üniv.):hourglass_flowing_sand:
+11. [Sıfırdan Derin Öğrenme Çerçevesi Oluşturma (iki oturum)]() - Erelcan Yanık (Havelsan):hourglass_flowing_sand:
+12. [LSTM ve CNN ile Görsel Soru Cevaplama](https://github.com/deeplearningturkiye/DeepCon18/blob/master/Atolye_Dosyalari/Ba%C5%9FakBuluz_DeepCon.pdf) - Başak Buluz (Aydın Üniversitesi / DLTR) :ballot_box_with_check:
+13. [Derin Öğrenme ile Renormalizasyon Grupları Arası Haritalama]() - Göktuğ İslamoğlu (İTÜ / İnşaat Müh.):hourglass_flowing_sand:
+14. [Bulut Teknolojileri Kullanarak Makine Öğrenmesi Modellerinin Oluşturulması](https://deepcon.s3.eu-west-1.amazonaws.com/Bulut_AI_v01.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20181011T091224Z&X-Amz-SignedHeaders=host&X-Amz-Expires=259199&X-Amz-Credential=AKIAIE6JUXZ3ZP7PRD6Q%2F20181011%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Signature=f44e91bd8f20764abbe53f27151e690e972d2c009d8d10a507916fd8b1c60413) - Barış Yaşin (AWS / Solution Architect) :ballot_box_with_check:
+15. [Kelime Kalıplama (Word Embeddings) Yöntemler](https://github.com/deeplearningturkiye/DeepCon18/blob/master/Atolye_Dosyalari/Halil%C4%B0brahim%C3%87elenli_DeepCon.pdf) - Halil İbrahim Çelenli (Iceberg Tech. / DLTR) :ballot_box_with_check:
+16. [İnsansız Hava Araçları ve Bilgisayarlı Görü]() - Mehmet Kerim Yücel (STM):hourglass_flowing_sand:
+17. [Giyim Tarzı Belirleme]() - Barış Yılmaz (Bilkent / Matematik):hourglass_flowing_sand:
+18. [Medikal Görüntülerde Landmark Tayini](https://github.com/deeplearningturkiye/DeepCon18/blob/master/Atolye_Dosyalari/AhmetEminYetkin_DeepCon.pdf) - Ahmet Emin Yetkin (Yeditepe Üniversitesi / DLTR) :ballot_box_with_check:
+19. [Yapay Zeka Araçlarını Kullanarak İşitme Engelli Öğrencilere İngilizce Öğretimi]() - Dr. Burak Özkösem (Pera Labs):hourglass_flowing_sand:
+20. [Derin Öğrenme ile Doğal Dil İşleme]() - Fatih Mehmet Güler (PragmaCraft / DLTR):hourglass_flowing_sand:
+21. [Derin Pekiştirmeli Öğrenmeye Giriş: Doom Oynayan Ajan Geliştirme](https://github.com/FurkanArslan/deepcon-deep-rl-workshop) - Furkan Arslan (Özyeğin Üniversitesi / DLTR) :ballot_box_with_check:
+22. [Mamografi Görüntüleri Kullanarak Meme Kanseri Teşhisinin Performans Değerlendirmesi]() - Burcu Bektaş (İstanbul Üniversitesi-Cerrahpaşa / DLTR):hourglass_flowing_sand:
 
 ## Atölye Videoları :tv:
 :hourglass_flowing_sand: Çok yakında [**Deep Learning Türkiye YouTube**](https://www.youtube.com/channel/UCrp_7_JACqsYbSmHFowvqbg) kanalında olacak!
