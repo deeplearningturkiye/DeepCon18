@@ -16,7 +16,7 @@
 9. [Yapay Görme ve Derin Öğrenme Yöntemlerinin Perakende Sektörüne Uygulanması]() - Erdem Yörük
 
 ## Konuşmacı Videoları :tv:
-Çok yakında [**Deep Learning Türkiye YouTube**](https://www.youtube.com/channel/UCrp_7_JACqsYbSmHFowvqbg) kanalında olacak!
+:hourglass_flowing_sand: Çok yakında [**Deep Learning Türkiye YouTube**](https://www.youtube.com/channel/UCrp_7_JACqsYbSmHFowvqbg) kanalında olacak!
 
 ## Atölye Sunumları :heavy_check_mark:
 
