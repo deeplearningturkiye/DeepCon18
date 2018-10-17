@@ -25,7 +25,7 @@
 ## Atölye Sunumları :heavy_check_mark:
 1. [Tensorflow.js ile Derin öğrenme web uygulaması geliştirme]() - Yavuz Kömeçoğlu  (Kodiks Bilişim / DLTR):hourglass_flowing_sand:
 2. [Eğitimde Yapay Zeka]() - Dr. Sevinç Tunalı (TASAM):hourglass_flowing_sand:
-3. [Derin Pekiştirmeli Öğrenmede Çok Kollu Haydutlar Problemi](https://github.com/deeplearningturkiye/DeepCon18/tree/master/Atolye_Dosyalari/Derin_Pekistirmeli_Ogrenmede_Cok_Kollu_Haydutlar_Problemi) - DLTR Çalışma Grubu :ballot_box_with_check:
+3. [Derin Pekiştirmeli Öğrenmede Çok Kollu Haydutlar Problemi](https://github.com/deeplearningturkiye/DeepCon18/tree/master/Atolye_Dosyalari/Pekistirmeli_Ogrenmede_Cok_Kollu_Haydutlar_Problemi) - DLTR Çalışma Grubu :ballot_box_with_check:
 4. [Derin Öğrenme Yöntemleri (LSTM/RNN) Kullanarak Alışveriş Robotu Geliştirme]() - Buğra Çakır (BearTell / CEO):hourglass_flowing_sand:
 5. [Çekişmeli Üretici Ağları (GAN) Kullanarak Sentetik Veri Üretimi]() - Şahin Olut (İTÜ / VisionLab):hourglass_flowing_sand:
 6. [Kamera ve LiDAR verileri kullanılarak NVIDIA Drive Platformunda Otomotiv Uygulamaları]() - Fatih Cırıt (Leo Mühendislik):hourglass_flowing_sand:
