@@ -8,5 +8,4 @@ Workshop katılımı için temel Python bilgisi gerekmektedir. İnteraktif bir �
 git clone https://github.com/kivancguckiran/deepcon-rl-workshop
 pip install numpy matplotlib
 ```
-
 Görüşmek üzere!
