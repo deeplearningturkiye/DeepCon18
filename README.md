@@ -43,7 +43,7 @@
 18. [Medikal Görüntülerde Landmark Tayini](https://github.com/deeplearningturkiye/DeepCon18/blob/master/Atolye_Dosyalari/AhmetEminYetkin_DeepCon.pdf) - Ahmet Emin Yetkin (Yeditepe Üniversitesi / DLTR) :ballot_box_with_check:
 19. [Yapay Zeka Araçlarını Kullanarak İşitme Engelli Öğrencilere İngilizce Öğretimi]() - Dr. Burak Özkösem (Pera Labs):hourglass_flowing_sand:
 20. [Derin Öğrenme ile Doğal Dil İşleme]() - Fatih Mehmet Güler (PragmaCraft / DLTR):hourglass_flowing_sand:
-21. [Derin Pekiştirmeli Öğrenmeye Giriş: Doom Oynayan Ajan Geliştirme](https://github.com/FurkanArslan/deepcon-deep-rl-workshop) - Furkan Arslan (Özyeğin Üniversitesi / DLTR) :ballot_box_with_check:
+21. [Derin Pekiştirmeli Öğrenmeye Giriş: Doom Oynayan Ajan Geliştirme](https://github.com/deeplearningturkiye/DeepCon18/tree/master/Atolye_Dosyalari/Derin_Pekistirmeli_Ogrenmeye_Giris_Doom_Oynayan_Ajan_Gelistirme) - Furkan Arslan (Özyeğin Üniversitesi / DLTR) :ballot_box_with_check:
 22. [Mamografi Görüntüleri Kullanarak Meme Kanseri Teşhisinin Performans Değerlendirmesi]() - Burcu Bektaş (İstanbul Üniversitesi-Cerrahpaşa / DLTR):hourglass_flowing_sand:
 
 ### Atölye Eğitmenleri Hakkında Kısa Özgeçmiş Dosyası
