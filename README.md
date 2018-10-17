@@ -9,15 +9,15 @@
 ⭐️Bu repoda **DeepCon'18** dokumanlarına ulaşabilirsiniz.⭐️
 
 ## Konuşmacı Sunumları :heavy_check_mark:
-1. [Yapay Görsel Zekaya Doğru](https://github.com/deeplearningturkiye/DeepCon18/blob/master/Konusmac-_Sunumlari/1-DeepCon_AykutErdem.pdf) - Doç. Dr. Aykut Erdem / Hacettepe Üniversitesi
-2. [Microsoft'un Yapay Zeka ile Türkiye'ye Etkisi](https://github.com/deeplearningturkiye/DeepCon18/blob/master/Konusmac-_Sunumlari/2-DeepCon_Onur%20Koc.pdf) - Onur Koç / Microsoft Türkiye, CTO
-3. [Yapay Zekanın Hukuk Alanındaki Yansımaları](https://github.com/deeplearningturkiye/DeepCon18/blob/master/Konusmac-_Sunumlari/3-DeepCon_Av.SertalSiraci.pdf) - Av. Sertel Şıracı / İstanbul Barosu Bilişim Hukuku Komisyonu Başkanı
-4. [Otonom Araç Tasarımında Yapay Zeka](https://github.com/deeplearningturkiye/DeepCon18/blob/master/Konusmac-_Sunumlari/4-DeepCon_AliOsmanOrs.pdf) - Ali Osman Ors / NXP, Otomotivde Yapay Zeka Stratejisi Yöneticisi
-5. [Türkiye’nin Yapay Zeka Stratejisi Ne Olmalı?](https://github.com/deeplearningturkiye/DeepCon18/blob/master/Konusmac-_Sunumlari/5-DeepCon_ESerdarGokpinar.pdf) - Dr. E. Serdar Gökpınar / TTGV
-6. [Siber Güvenlik ve Derin Öğrenme Uygulamaları](https://github.com/deeplearningturkiye/DeepCon18/blob/master/Konusmac-_Sunumlari/6-DeepCon_BerkSunar.pdf) - Prof. Dr. Berk Sunar / Worcester Polytechnic Institute
-7. [Türkiye'de Endüstri 4.0 Evrimi](https://github.com/deeplearningturkiye/DeepCon18/blob/master/Konusmac-_Sunumlari/7-DeepCon_AlperGer%C3%A7ek.pdf) - Alper Gerçek / Aselsan
+1. [Yapay Görsel Zekaya Doğru](https://github.com/deeplearningturkiye/DeepCon18/blob/master/Konusmaci_Sunumlari/1-DeepCon_AykutErdem.pdf) - Doç. Dr. Aykut Erdem / Hacettepe Üniversitesi
+2. [Microsoft'un Yapay Zeka ile Türkiye'ye Etkisi](https://github.com/deeplearningturkiye/DeepCon18/blob/master/Konusmaci_Sunumlari/2-DeepCon_Onur%20Koc.pdf) - Onur Koç / Microsoft Türkiye, CTO
+3. [Yapay Zekanın Hukuk Alanındaki Yansımaları](https://github.com/deeplearningturkiye/DeepCon18/blob/master/Konusmaci_Sunumlari/3-DeepCon_Av.SertalSiraci.pdf) - Av. Sertel Şıracı / İstanbul Barosu Bilişim Hukuku Komisyonu Başkanı
+4. [Otonom Araç Tasarımında Yapay Zeka](https://github.com/deeplearningturkiye/DeepCon18/blob/master/Konusmaci_Sunumlari/4-DeepCon_AliOsmanOrs.pdf) - Ali Osman Ors / NXP, Otomotivde Yapay Zeka Stratejisi Yöneticisi
+5. [Türkiye’nin Yapay Zeka Stratejisi Ne Olmalı?](https://github.com/deeplearningturkiye/DeepCon18/blob/master/Konusmaci_Sunumlari/5-DeepCon_ESerdarGokpinar.pdf) - Dr. E. Serdar Gökpınar / TTGV
+6. [Siber Güvenlik ve Derin Öğrenme Uygulamaları](https://github.com/deeplearningturkiye/DeepCon18/blob/master/Konusmaci_Sunumlari/6-DeepCon_BerkSunar.pdf) - Prof. Dr. Berk Sunar / Worcester Polytechnic Institute
+7. [Türkiye'de Endüstri 4.0 Evrimi](https://github.com/deeplearningturkiye/DeepCon18/blob/master/Konusmaci_Sunumlari/7-DeepCon_AlperGer%C3%A7ek.pdf) - Alper Gerçek / Aselsan
 8. [Algoritmik Finans]() -  Selim Temizer
-9. [Yapay Görme ve Derin Öğrenme Yöntemlerinin Perakende Sektörüne Uygulanması](https://github.com/deeplearningturkiye/DeepCon18/blob/master/Konusmac-_Sunumlari/9-DeepCon_ErdemYoruk.pdf) - Erdem Yörük
+9. [Yapay Görme ve Derin Öğrenme Yöntemlerinin Perakende Sektörüne Uygulanması](https://github.com/deeplearningturkiye/DeepCon18/blob/master/Konusmaci_Sunumlari/9-DeepCon_ErdemYoruk.pdf) - Erdem Yörük
 
 ## Konuşmacı Videoları :tv:
 :hourglass_flowing_sand: Çok yakında [**Deep Learning Türkiye YouTube**](https://www.youtube.com/channel/UCrp_7_JACqsYbSmHFowvqbg) kanalında olacak!
