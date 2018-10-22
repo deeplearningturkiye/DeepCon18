@@ -23,7 +23,7 @@
 :hourglass_flowing_sand: Çok yakında [**Deep Learning Türkiye YouTube**](https://www.youtube.com/channel/UCrp_7_JACqsYbSmHFowvqbg) kanalında olacak!
 
 ## Atölye Sunumları :heavy_check_mark:
-1. [Tensorflow.js ile Derin öğrenme web uygulaması geliştirme]() - Yavuz Kömeçoğlu  (Kodiks Bilişim / DLTR):ballot_box_with_check:
+1. [Tensorflow.js ile Derin öğrenme web uygulaması geliştirme](https://github.com/deeplearningturkiye/DeepCon18/tree/master/Atolye_Dosyalari/TensorFlowJS_Derin_Ogrenme_Web%20Uygulamasi_Gelistirme) - Yavuz Kömeçoğlu  (Kodiks Bilişim / DLTR):ballot_box_with_check:
 2. [Eğitimde Yapay Zeka]() - Dr. Sevinç Tunalı (TASAM):hourglass_flowing_sand:
 3. [Derin Pekiştirmeli Öğrenmede Çok Kollu Haydutlar Problemi](https://github.com/deeplearningturkiye/DeepCon18/tree/master/Atolye_Dosyalari/Pekistirmeli_Ogrenmede_Cok_Kollu_Haydutlar_Problemi) - DLTR Çalışma Grubu :ballot_box_with_check:
 4. [Derin Öğrenme Yöntemleri (LSTM/RNN) Kullanarak Alışveriş Robotu Geliştirme]() - Buğra Çakır (BearTell / CEO):hourglass_flowing_sand:
