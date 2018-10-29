@@ -13,7 +13,7 @@ Veri kümesinde aşağıda içerik sayıları da verilen 6 sınıftan oluşmakta
 * 482 plastik
 * 410 metal
 * 137 çöp
-Toplanda 2527 görüntü içermektedir.
+- Toplanda 2527 görüntü içermektedir.
 
 Görüntüler gün ışığı ve oda aydınlatmasında çekilmiştir ve boyutları 512 x 384 olarak eşitlenmiştir. Fotoğraflar Apple iPhone 7 Plus, Apple iPhone 5S ve Apple iPhone SE akıllı telefonları kullanılarak çekilmiştir.
 
