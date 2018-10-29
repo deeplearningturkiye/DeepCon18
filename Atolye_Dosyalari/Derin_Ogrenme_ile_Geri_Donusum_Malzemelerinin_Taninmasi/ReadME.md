@@ -7,13 +7,12 @@ Makalenin tamamını incelemek isterseniz: [RecycleNet: Intelligent Waste Sortin
 
 ## Veri Kümesi
 Veri kümesinde aşağıda içerik sayıları da verilen 6 sınıftan oluşmaktadır: 
-
-501 cam
-594 kağır
-403 karton
-482 plastik
-410 metal
-137 çöp
+* 501 cam
+* 594 kağır
+* 403 karton
+* 482 plastik
+* 410 metal
+* 137 çöp
 Toplanda 2527 görüntü içermektedir.
 
 Görüntüler gün ışığı ve oda aydınlatmasında çekilmiştir ve boyutları 512 x 384 olarak eşitlenmiştir. Fotoğraflar Apple iPhone 7 Plus, Apple iPhone 5S ve Apple iPhone SE akıllı telefonları kullanılarak çekilmiştir.
