@@ -1,4 +1,4 @@
 
-## Mamografi_Goruntuleri_Kullanarak_Meme_Kanseri_Teshisinin_Performans_Degerlendirmesi
+## Mamografi Görüntüleri Kullanarak Meme Kanseri Teşhisinin Performans Değerlendirmesi
 ### Burcu Bektaş 
 DeepCon'18 Atölye Çalışması
