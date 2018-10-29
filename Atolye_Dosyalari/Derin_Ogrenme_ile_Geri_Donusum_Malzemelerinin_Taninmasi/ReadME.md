@@ -1,5 +1,5 @@
-## Geri Dönüşüm Malzemelerinin Derin Öğrenme Yöntemleri ile Tanınması
-Bu çalışma Deep Learning Türkiye Topluluğu Uluslarası Akademik Çalışmasıdır.
+:recycle: ## Geri Dönüşüm Malzemelerinin Derin Öğrenme Yöntemleri ile Tanınması 
+:trophy: Bu çalışma Deep Learning Türkiye Topluluğu Uluslarası Akademik Çalışmasıdır.
 
 ### Makalenin Türkçe sunumu DeepCon'18 Yapay Zeka Konferansında atölye çalışması olarak gerçekleştirilmiştir.
 
