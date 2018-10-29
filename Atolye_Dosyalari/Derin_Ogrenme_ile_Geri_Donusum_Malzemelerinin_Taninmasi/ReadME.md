@@ -1,7 +1,7 @@
-## Geri Dönüşüm Malzemelerinin Derin Öğrenme Yöntemleri ile Tanınması
+# Geri Dönüşüm Malzemelerinin Derin Öğrenme Yöntemleri ile Tanınması
 Bu çalışma Deep Learning Türkiye Topluluğu Uluslarası Akademik Çalışmasıdır.
 
-### Makalenin Türkçe sunumu DeepCon'18 Yapay Zeka Konferansında atölye çalışmasında gerçekleştirilmiştir.
+### Makalenin Türkçe sunumu DeepCon'18 Yapay Zeka Konferansında atölye çalışması olarak gerçekleştirilmiştir.
 
 Makalenin tamamını incelemek isterseniz: [RecycleNet: Intelligent Waste Sorting Using Deep Neural Networks](https://ieeexplore.ieee.org/document/8466276)
 
