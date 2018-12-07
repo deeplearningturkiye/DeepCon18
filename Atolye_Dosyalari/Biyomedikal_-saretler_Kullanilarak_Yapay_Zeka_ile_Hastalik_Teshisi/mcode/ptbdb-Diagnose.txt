@@ -1,0 +1,295 @@
+patient001/s0010_re-Myocardial infarction
+patient002/s0015lre-Myocardial infarction
+patient003/s0017lre-Myocardial infarction
+patient004/s0020are-Myocardial infarction
+patient005/s0021are-Myocardial infarction
+patient006/s0022lre-Myocardial infarction
+patient007/s0026lre-Myocardial infarction
+patient008/s0028lre-Myocardial infarction
+patient009/s0035_re-Myocardial infarction
+patient010/s0036lre-Myocardial infarction
+patient011/s0039lre-Myocardial infarction
+patient012/s0043lre-Myocardial infarction
+patient013/s0045lre-Myocardial infarction
+patient014/s0046lre-Myocardial infarction
+patient015/s0047lre-Myocardial infarction
+patient016/s0052lre-Myocardial infarction
+patient017/s0053lre-Myocardial infarction
+patient018/s0054lre-Myocardial infarction
+patient019/s0058lre-Myocardial infarction
+patient020/s0062lre-Myocardial infarction
+patient021/s0065lre-Myocardial infarction
+patient022/s0066lre-Myocardial infarction
+patient023/s0080lre-Myocardial infarction
+patient024/s0083lre-Myocardial infarction
+patient025/s0087lre-Myocardial infarction
+patient026/s0088lre-Myocardial infarction
+patient027/s0089lre-Myocardial infarction
+patient028/s0090lre-Myocardial infarction
+patient029/s0092lre-Myocardial infarction
+patient030/s0099lre-Myocardial infarction
+patient031/s0100lre-Myocardial infarction
+patient032/s0102lre-Myocardial infarction
+patient033/s0105lre-Myocardial infarction
+patient034/s0109lre-Myocardial infarction
+patient035/s0110lre-Myocardial infarction
+patient036/s0111lre-Myocardial infarction
+patient037/s0112lre-Myocardial infarction
+patient038/s0125lre-Myocardial infarction
+patient039/s0129lre-Myocardial infarction
+patient040/s0130lre-Myocardial infarction
+patient041/s0132lre-Myocardial infarction
+patient042/s0135lre-Myocardial infarction
+patient043/s0141lre-Myocardial infarction
+patient044/s0142lre-Myocardial infarction
+patient045/s0147lre-Myocardial infarction
+patient046/s0156lre-Myocardial infarction
+patient047/s0160lre-Myocardial infarction
+patient048/s0171lre-Myocardial infarction
+patient049/s0173lre-Myocardial infarction
+patient050/s0174lre-Myocardial infarction
+patient051/s0179lre-Myocardial infarction
+patient052/s0190lre-Myocardial infarction
+patient053/s0191lre-Myocardial infarction
+patient054/s0192lre-Myocardial infarction
+patient055/s0194lre-Myocardial infarction
+patient056/s0196lre-Myocardial infarction
+patient057/s0198lre-Myocardial infarction
+patient058/s0216lre-Myocardial infarction
+patient059/s0208lre-Myocardial infarction
+patient060/s0209lre-Myocardial infarction
+patient061/s0210lre-Myocardial infarction
+patient062/s0212lre-Myocardial infarction
+patient063/s0214lre-Myocardial infarction
+patient064/s0220lre-Myocardial infarction
+patient065/s0221lre-Myocardial infarction
+patient066/s0225lre-Myocardial infarction
+patient067/s0227lre-Myocardial infarction
+patient068/s0228lre-Myocardial infarction
+patient069/s0232lre-Myocardial infarction
+patient070/s0235lre-Myocardial infarction
+patient071/s0236lre-Myocardial infarction
+patient072/s0237lre-Myocardial infarction
+patient073/s0238lre-Myocardial infarction
+patient074/s0239lre-Myocardial infarction
+patient075/s0242lre-Myocardial infarction
+patient076/s0247lre-Myocardial infarction
+patient077/s0251lre-Myocardial infarction
+patient078/s0255lre-Myocardial infarction
+patient079/s0256lre-Myocardial infarction
+patient080/s0260lre-Myocardial infarction
+patient081/s0264lre-Myocardial infarction
+patient082/s0267lre-Myocardial infarction
+patient083/s0268lre-Myocardial infarction
+patient084/s0281lre-Myocardial infarction
+patient085/s0296lre-Myocardial infarction
+patient086/s0316lre-Myocardial infarction
+patient087/s0321lre-Myocardial infarction
+patient088/s0339lre-Myocardial infarction
+patient089/s0344lre-Myocardial infarction
+patient090/s0348lre-Myocardial infarction
+patient091/s0353lre-Myocardial infarction
+patient092/s0354lre-Myocardial infarction
+patient093/s0367lre-Myocardial infarction
+patient094/s0368lre-Myocardial infarction
+patient095/s0369lre-Myocardial infarction
+patient096/s0379lre-Myocardial infarction
+patient097/s0380lre-Myocardial infarction
+patient098/s0386lre-Myocardial infarction
+patient099/s0387lre-Myocardial infarction
+patient100/s0399lre-Myocardial infarction
+patient101/s0400lre-Myocardial infarction
+patient102/s0416lre-Myocardial infarction
+patient103/s0332lre-Myocardial infarction
+patient104/s0306lre-Healthy Control
+patient105/s0303lre-Healthy Control
+patient106/s0030_re-Valvular heart disease
+patient107/s0199_re-Valvular heart disease
+patient108/s0013_re-Myocardial infarction
+patient109/s0349lre-Dysrhythmia
+patient110/s0003_re-Valvular heart disease
+patient111/s0203_re-Myocardial infarction
+patient112/s0169_re-Dysrhythmia
+patient113/s0018cre-Dysrhythmia
+patient114/s0012_re-Valvular heart disease
+patient115/s0023_re-Heart failure (NYHA 2)
+patient116/s0302lre-Healthy Control
+patient117/s0291lre-Healthy Control
+patient118/s0183_re Heart failure (NYHA 3)
+patient119/s0001_re-n/a
+patient120/s0331lre-Myocardial infarction
+patient121/s0311lre-Healthy Control
+patient122/s0312lre-Healthy Control
+patient123/s0224_re-Heart failure (NYHA 4)
+
+patient125/s0006_re-n/a
+patient126/s0154_re-Palpitation
+patient127/s0342lre-Cardiomyopathy
+patient128/s0182_re-Myocardial infarction
+patient129/s0189_re-Cardiomyopathy
+patient130/s0166_re-Stable angina
+patient131/s0273lre-Healthy Control
+
+patient133/s0393lre-Dysrhythmia
+
+patient135/s0334lre-Myocardial infarction
+patient136/s0205_re-n/a
+patient137/s0392lre-Cardiomyopathy
+patient138/s0005_re-Myocardial infarction
+patient139/s0223_re-Myocardial infarction
+patient140/s0019_re-Myocardial infarction
+patient141/s0307lre-Myocardial infarction
+patient142/s0351lre-Myocardial infarction
+patient143/s0333lre-n/a
+patient144/s0341lre-n/a
+patient145/s0201_re-Myocardial infarction
+patient146/s0007_re-n/a
+patient147/s0211_re-Dysrhythmia
+patient148/s0335lre-Myocardial infarction
+patient149/s0202are-Myocardial infarction
+patient150/s0287lre-Healthy Control
+patient151/s0206_re-Dysrhythmia
+patient152/s0004_re-Myocardial infarction
+patient153/s0391lre-Dysrhythmia
+patient154/s0170_re-n/a
+patient155/s0301lre-Healthy Control
+patient156/s0299lre-Healthy Control
+patient157/s0338lre-Dysrhythmia
+patient158/s0294lre-Myocardial infarction
+patient159/s0390lre-Hypertrophy
+patient160/s0222_re-Myocardial infarction
+
+patient162/s0193_re-n/a
+patient163/s0034_re-Myocardial infarction
+patient164/s0024are-n/a
+patient165/s0322lre-Healthy control
+patient166/s0275lre-Healthy control
+patient167/s0200_re-Cardiomyopathy
+patient168/s0032_re-Dysrhythmia
+patient169/s0328lre-Healthy control
+patient170/s0274lre-Healthy control
+patient171/s0364lre-Bundle branch block
+patient172/s0304lre-Healthy control
+patient173/s0305lre-Healthy control
+patient174/s0300lre-Healthy control
+patient175/s0009_re-Bundle branch block
+patient176/s0188_re-n/a
+patient177/s0366lre-Dysrhythmia
+patient178/s0011_re-n/a
+patient179/s0176_re-n/a
+
+patient180/s0374lre-Healthy control
+patient181/s0204are-n/a
+patient182/s0308lre-Healthy control
+patient183/s0175_re-Myocardial infarction
+patient184/s0363lre-Healthy control
+patient185/s0336lre-Healthy control
+patient186/s0293lre-n/a
+patient187/s0207_re-Dysrhythmia
+patient188/s0365lre-Valvular heart disease
+patient189/s0309lre-Myocardial infarction
+patient190/s0040_re-n/a
+patient191/s0340lre-Stable angina
+patient192/s0048_re-n/a
+patient193/s0008_re-Myocardial infarction
+patient194/s0310lre-n/a
+patient195/s0337lre-Myocardial infarction
+patient196/s0002_re-Unstable angina
+patient197/s0350lre-Myocardial infarction
+patient198/s0402lre-Healthy control
+patient199/s0404lre-Bundle branch block
+patient200/s0405lre-n/a
+patient201/s0420_re-Cardiomyopathy
+patient202/s0421_re-Bundle branch block
+patient203/s0424_re-Bundle branch block
+patient204/s0425_re-Bundle branch block
+patient205/s0426_re-Myocardial infarction
+patient206/s0427_re-Bundle branch block
+patient207/s0428_re-Myocardial infarction
+patient208/s0429_re-Bundle branch block
+patient209/s0431_re-Bundle branch block
+patient210/s0432_re-Hypertrophy
+patient211/s0433_re-Myocardial infarction
+patient212/s0434_re-Hypertrophy
+patient213/s0435_re-Bundle branch block
+patient214/s0436_re-Healthy control
+patient215/s0437_re-Cardiomyopathy
+patient216/s0438_re-Hypertrophy
+patient217/s0439_re-Bundle branch block
+patient218/s0440_re-Dysrhythmia
+patient219/s0441_re-Bundle branch block
+patient220/s0442_re-Bundle branch block
+patient221/s0443_re-Hypertrophy
+patient222/s0444_re-Cardiomyopathy
+patient223/s0445_re-Myocardial infarction
+patient224/s0447_re-Valvular heart disease
+patient225/s0448_re-Bundle branch block
+patient226/s0449_re-Myocardial infarction
+patient227/s0450_re-Hypertrophy
+patient228/s0451_re-Bundle branch block
+patient229/s0452_re-Healthy control
+patient230/s0454_re-Myocardial infarction
+patient231/s0455_re-Myocardial infarction
+patient232/s0456_re-Cardiomyopathy
+patient233/s0457_re-Healthy control
+patient234/s0460_re-Healthy control
+patient235/s0461_re-Healthy control
+patient236/s0462_re-Healthy control
+patient237/s0465_re-Healthy control
+patient238/s0466_re-Healthy control
+patient239/s0467_re-Healthy control
+patient240/s0468_re-Healthy control
+patient241/s0469_re-Healthy control
+patient242/s0471_re-Healthy control
+patient243/s0472_re-Healthy control
+patient244/s0473_re-Healthy control
+patient245/s0474_re-Healthy control
+patient246/s0478_re-Healthy control
+patient247/s0479_re-Healthy control
+patient248/s0481_re-Healthy control
+patient249/s0484_re-Myocarditis
+patient250/s0485_re-Hypertrophy
+patient251/s0486_re-Healthy control
+patient252/s0487_re-Healthy control
+patient253/s0488_re-Cardiomyopathy
+patient254/s0489_re-Cardiomyopathy
+patient255/s0491_re-Healthy control
+patient256/s0492_re-Cardiomyopathy
+patient257/s0493_re-Cardiomyopathy
+patient258/s0494_re-Dysrhythmia
+patient259/s0495_re-Myocardial infarction
+patient260/s0496_re-Healthy control
+patient261/s0497_re-Myocardial infarction
+patient262/s0498_re-Cardiomyopathy
+patient263/s0499_re-Healthy control
+patient264/s0500_re-Healthy control
+patient265/s0501_re-Myocardial infarction
+patient266/s0502_re-Healthy control
+patient267/s0504_re-Healthy control
+patient268/s0505_re-Myocardial infarction
+patient269/s0508_re-Myocarditis
+patient270/s0507_re-Myocardial infarction
+patient271/s0509_re-Myocarditis
+patient272/s0510_re-Myocarditis
+patient273/s0511_re-Myocardial infarction
+patient274/s0512_re-Myocardial infarction
+patient275/s0513_re-n/a
+patient276/s0526_re-Healthy control
+patient277/s0527_re-Healthy control
+patient278/s0528_re-n/a
+patient279/s0531_re-Healthy control
+patient280/s0535_re-Myocardial infarction
+patient281/s0537_re-n/a
+patient282/s0539_re-Myocardial infarction
+patient283/s0542_re-Myocardial infarction
+patient284/s0543_re-Healthy control
+patient285/s0544_re-n/a
+patient286/s0546_re-Dysrhythmia
+patient287/s0547_re-Myocardial infarction
+patient288/s0549_re-Cardiomyopathy
+patient289/s0550_re-Cardiomyopathy
+patient290/s0553_re-Myocardial infarction
+patient291/s0554_re-Myocardial infarction
+patient292/s0555_re-Myocardial infarction
+patient293/s0557_re-Myocardial infarction
+patient294/s0559_re-Myocardial infarction
