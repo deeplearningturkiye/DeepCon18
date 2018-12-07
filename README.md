@@ -32,7 +32,7 @@
 7. [Derin Öğrenme ile Geri Dönüşüm Malzemelerinin Tanınması](https://github.com/deeplearningturkiye/DeepCon18/tree/master/Atolye_Dosyalari/Derin_Ogrenme_ile_Geri_Donusum_Malzemelerinin_Taninmasi) -  Merve Ayyüce Kızrak (Haliç Üniversitesi / DLTR) :ballot_box_with_check:
 8. [E-Ticaret ve Yapay Zeka Uygulamaları](https://github.com/deeplearningturkiye/DeepCon18/tree/master/Atolye_Dosyalari/E-Ticaret_ve_Yapay_Zeka_Uygulamalari) - Cüneyt Aksakallı (SefaMerve / DLTR):ballot_box_with_check:
 9. [OpenAI Gym ile Pekiştirmeli Öğrenme](https://github.com/deeplearningturkiye/DeepCon18/tree/master/Atolye_Dosyalari/OpenAI_Gym_ile_Pekistirmeli_Ogrenme) - Umut Can Altın (Eskişehir Anadolu Üniv. / DLTR):ballot_box_with_check:
-10. [Biyomedikal İşaretler Kullanılarak Yapay Zeka ile Hastalık Teşhisi]() - Sebahattin Babur (İstanbul Gedik Üniv.):hourglass_flowing_sand:
+10. [Biyomedikal İşaretler Kullanılarak Yapay Zeka ile Hastalık Teşhisi](https://github.com/deeplearningturkiye/DeepCon18/tree/master/Atolye_Dosyalari/Biyomedikal_-saretler_Kullanilarak_Yapay_Zeka_ile_Hastalik_Teshisi) - Sebahattin Babur (İstanbul Gedik Üniv.):ballot_box_with_check:
 11. [Sıfırdan Derin Öğrenme Çerçevesi Oluşturma (iki oturum)]() - Erelcan Yanık (Havelsan):hourglass_flowing_sand:
 12. [LSTM ve CNN ile Görsel Soru Cevaplama](https://github.com/deeplearningturkiye/DeepCon18/blob/master/Atolye_Dosyalari/Ba%C5%9FakBuluz_DeepCon.pdf) - Başak Buluz (İstanbul Aydın Üniversitesi / DLTR) :ballot_box_with_check:
 13. [Derin Öğrenme ile Renormalizasyon Grupları Arası Haritalama]() - Göktuğ İslamoğlu (İTÜ / İnşaat Müh.):hourglass_flowing_sand:
