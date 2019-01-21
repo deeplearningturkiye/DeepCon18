@@ -1,4 +1,4 @@
-# [DeepCon'18 Yapay Zeka Konferansı](http://deepcon.deeplearningturkiye.com/) <img align="right" src="deepcon_logo.png">
+# [DeepCon'18 Conference of AI](http://deepcon.deeplearningturkiye.com/) <img align="right" src="deepcon_logo.png">
 
 ## Yapay Zeka Üreten Türkiye!
 
