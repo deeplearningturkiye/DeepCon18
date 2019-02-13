@@ -4,11 +4,11 @@
 [![DeepCon18](https://raw.githubusercontent.com/deeplearningturkiye/DeepCon18/master/deepcon_logo.png)](http://deepcon.deeplearningturkiye.com/)
 
 ## Online Demo
-Atölye uygulamasını online olarak test etmek için [tıklayınız](https://yavuzkomecoglu.github.io/deepcon_demo/).
+Atölye uygulamasını online olarak test etmek için [tıklayınız](http://yavuzkomecoglu.com/apps/deepcon18_tfjs_demo/).
 
 ## Sunum
-  - PowerPoint versiyonu için [tıklayınız.](https://github.com/yavuzKomecoglu/deepcon18_atolye_tensorflowJS/blob/master/DeepCon18_sunum.ppt)
-  - PDF versiyonu için [tıklayınız.](https://github.com/yavuzKomecoglu/deepcon18_atolye_tensorflowJS/blob/master/DeepCon18_sunum.pdf)
+  - PowerPoint versiyonu için [tıklayınız.](https://github.com/deeplearningturkiye/DeepCon18/blob/master/Atolye_Dosyalari/TensorFlowJS_Derin_Ogrenme_Web%20Uygulamasi_Gelistirme/YavuzKomecoglu_DeepCon18_Sunum.ppt)
+  - PDF versiyonu için [tıklayınız.](https://github.com/deeplearningturkiye/DeepCon18/blob/master/Atolye_Dosyalari/TensorFlowJS_Derin_Ogrenme_Web%20Uygulamasi_Gelistirme/YavuzKomecoglu_DeepCon18_Sunum.pdf)
 
 ## Faydalı Kaynaklar
 ##### Resmi Kaynaklar
